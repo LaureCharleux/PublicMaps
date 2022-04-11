@@ -517,7 +517,7 @@
 				<Title>name_virginia</Title>
 				<Abstract>GH:name_virginia ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-93.612614" miny="46.710995" maxx="-91.505195" maxy="48.261927"></LatLonBoundingBox>
@@ -537,7 +537,7 @@
 				<Title>name_silver_bay</Title>
 				<Abstract>GH:name_silver_bay ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-92.40228" miny="46.727846" maxx="-90.246163" maxy="47.897721"></LatLonBoundingBox>
@@ -557,7 +557,7 @@
 				<Title>name_red_lake__red_lake</Title>
 				<Abstract>GH:name_red_lake__red_lake ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-95.80767418305096" miny="47.103444" maxx="-93.774255" maxy="48.52856"></LatLonBoundingBox>
@@ -577,7 +577,7 @@
 				<Title>name_onamia__mille_lacs</Title>
 				<Abstract>GH:name_onamia__mille_lacs ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-94.587904" miny="45.41358571661823" maxx="-92.596648" maxy="46.810973"></LatLonBoundingBox>
@@ -597,7 +597,7 @@
 				<Title>name_north_branch</Title>
 				<Abstract>GH:name_north_branch ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-93.76831370829085" miny="45.03152442046057" maxx="-92.427106" maxy="46.349665"></LatLonBoundingBox>
@@ -617,7 +617,7 @@
 				<Title>name_nett_lake__bois_forte</Title>
 				<Abstract>GH:name_nett_lake__bois_forte ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-93.946158" miny="47.397699" maxx="-92.12879" maxy="48.589782"></LatLonBoundingBox>
@@ -637,7 +637,7 @@
 				<Title>name_mahnomen__white_earth</Title>
 				<Abstract>GH:name_mahnomen__white_earth ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-96.0677027080344" miny="46.975758335453506" maxx="-94.800216" maxy="47.890117"></LatLonBoundingBox>
@@ -657,7 +657,7 @@
 				<Title>name_international_falls</Title>
 				<Abstract>GH:name_international_falls ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-94.625872" miny="47.839791" maxx="-92.603567" maxy="48.73228437684082"></LatLonBoundingBox>
@@ -677,7 +677,7 @@
 				<Title>name_hibbing</Title>
 				<Abstract>GH:name_hibbing ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-94.0302" miny="46.632389" maxx="-91.771373" maxy="48.219553"></LatLonBoundingBox>
@@ -697,7 +697,7 @@
 				<Title>name_grand_rapids</Title>
 				<Abstract>GH:name_grand_rapids ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-94.747239" miny="46.427757" maxx="-92.365081" maxy="48.016276"></LatLonBoundingBox>
@@ -717,7 +717,7 @@
 				<Title>name_grand_portage</Title>
 				<Abstract>GH:name_grand_portage ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-90.802592" miny="47.59056033949604" maxx="-89.58519879516392" maxy="48.081127"></LatLonBoundingBox>
@@ -737,7 +737,7 @@
 				<Title>name_grand_marais</Title>
 				<Abstract>GH:name_grand_marais ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-91.403002" miny="47.239094222380864" maxx="-89.58519879516392" maxy="48.180416"></LatLonBoundingBox>
@@ -757,7 +757,7 @@
 				<Title>name_fond_du_lac</Title>
 				<Abstract>GH:name_fond_du_lac ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-93.652008" miny="45.955067" maxx="-91.5063434876207" maxy="47.512994"></LatLonBoundingBox>
@@ -777,7 +777,7 @@
 				<Title>name_ely</Title>
 				<Abstract>GH:name_ely ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-93.074315" miny="47.202262" maxx="-90.948424" maxy="48.270887"></LatLonBoundingBox>
@@ -797,7 +797,7 @@
 				<Title>name_duluth</Title>
 				<Abstract>GH:name_duluth ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-93.262254" miny="46.036014" maxx="-91.183207" maxy="47.522319"></LatLonBoundingBox>
@@ -817,7 +817,7 @@
 				<Title>name_cass_lake__leech_lake</Title>
 				<Abstract>GH:name_cass_lake__leech_lake ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-95.765054" miny="46.58489" maxx="-93.398992" maxy="48.089005"></LatLonBoundingBox>
@@ -837,7 +837,7 @@
 				<Title>name_cambridge</Title>
 				<Abstract>GH:name_cambridge ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-93.81034434966767" miny="45.03152442046057" maxx="-92.45292" maxy="46.39584"></LatLonBoundingBox>
@@ -857,7 +857,7 @@
 				<Title>name_brainerd</Title>
 				<Abstract>GH:name_brainerd ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-94.7871440512033" miny="45.758365" maxx="-93.023379" maxy="47.139882"></LatLonBoundingBox>
@@ -877,7 +877,7 @@
 				<Title>name_bemidji</Title>
 				<Abstract>GH:name_bemidji ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-96.015184" miny="46.683353" maxx="-93.697955" maxy="48.160873"></LatLonBoundingBox>
@@ -897,7 +897,7 @@
 				<Title>name_baudette</Title>
 				<Abstract>GH:name_baudette ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-95.56123565304023" miny="47.883125" maxx="-93.36794966441114" maxy="48.968698"></LatLonBoundingBox>
